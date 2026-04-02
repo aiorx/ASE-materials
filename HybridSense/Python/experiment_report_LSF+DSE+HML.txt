@@ -1,0 +1,16 @@
+AI Code Detection Experiment Report - C++ (Ensemble Version) 
+
+
+Cross-Validation Results: 
+Mean Accuracy: 0.9000 
+Standard Deviation: 0.0291 
+Fold Scores: [0.8918918918918919, 0.8648648648648649, 0.918918918918919, 0.8918918918918919, 0.918918918918919, 0.9459459459459459, 0.9054054054054054, 0.9054054054054054, 0.8378378378378378, 0.918918918918919] 
+
+Classification Report: 
+Human: Precision: 0.8820 Recall: 0.9164 F1-Score: 0.8989 
+AI: Precision: 0.9183 Recall: 0.8845 F1-Score: 0.9011 Overall 
+
+Accuracy: 0.9000 
+
+
+ROC AUC: 0.9632
