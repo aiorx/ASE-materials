@@ -1,0 +1,3 @@
+AI Code Detection Experiment Report - (Pure Random Forest Version) 
+Mean Accuracy: 0.8780 
+ROC AUC: 0.9520

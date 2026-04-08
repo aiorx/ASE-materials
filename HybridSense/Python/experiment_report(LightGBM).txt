@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - Python (Pure LightGBM 10-Fold Cross-Validation Version)  
+
+Cross-Validation Results (10-Fold): 
+Mean Accuracy: 0.9003 
+Standard Deviation: 0.0162 
+Fold Scores: [0.9115384615384615, 0.8884615384615384, 0.8884615384615384, 0.9153846153846154, 0.8807692307692307, 0.926923076923077, 0.9192307692307692, 0.8884615384615384, 0.9034749034749034, 0.8803088803088803] 
+
+Classification Report: 
+Human: 
+Precision: 0.9019 
+Recall: 0.8956 
+F1-Score: 0.8987 
+AI: 
+Precision: 0.8988 
+Recall: 0.9049 
+F1-Score: 0.9019 
+Overall Accuracy: 0.9003 
+
+
+ROC AUC: 0.9668

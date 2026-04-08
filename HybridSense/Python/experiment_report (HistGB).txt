@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - Python (Pure HistGB 10-Fold Cross-Validation Version) 
+
+Cross-Validation Results (10-Fold): 
+Mean Accuracy: 0.8895 
+Standard Deviation: 0.0174 
+Fold Scores: [0.9076923076923077, 0.8807692307692307, 0.8653846153846154, 0.9076923076923077, 0.8807692307692307, 0.8961538461538462, 0.9230769230769231, 0.8807692307692307, 0.8803088803088803, 0.8725868725868726] 
+
+Classification Report: 
+Human: 
+Precision: 0.8915 
+Recall: 0.8839 
+F1-Score: 0.8877 
+AI: 
+Precision: 0.8876 
+Recall: 0.8951 
+F1-Score: 0.8913 
+Overall Accuracy: 0.8895 
+
+
+ROC AUC: 0.9644
