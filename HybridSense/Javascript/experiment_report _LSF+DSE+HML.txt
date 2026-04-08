@@ -1,4 +1,4 @@
-AI Code Detection Experiment Report - JavaScript/TypeScript (Ensemble Version) 
+AI Code Detection Experiment Report - JavaScript (Ensemble Version) 
 
 
 Cross-Validation Results:
