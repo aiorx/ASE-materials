@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - C (Pure LightGBM Version) 
+
+Cross-Validation Results:
+Mean Accuracy: 0.8824 
+Standard Deviation: 0.0424 
+Fold Scores: [0.7857142857142857, 0.9107142857142857, 0.8727272727272727, 0.9454545454545454, 0.8727272727272727, 0.9090909090909091, 0.8545454545454545, 0.8727272727272727, 0.9272727272727272, 0.8727272727272727] 
+
+Classification Report:
+Human:
+Precision: 0.8728 
+Recall: 0.8949 
+F1-Score: 0.8837 
+AI:
+Precision: 0.8922 
+Recall: 0.8696 
+F1-Score: 0.8807 
+Overall Accuracy: 0.8822 
+
+
+ROC AUC: 0.9587
