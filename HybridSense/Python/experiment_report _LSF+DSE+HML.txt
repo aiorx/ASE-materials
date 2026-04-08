@@ -1,0 +1,17 @@
+AI Code Detection Experiment Report - Python (Ensemble Version) 
+
+
+Cross-Validation Results: 
+Mean Accuracy: 0.9003 
+Standard Deviation: 0.0161 
+Fold Scores: [0.9153846153846154, 0.8884615384615384, 0.8846153846153846, 0.9115384615384615, 0.8807692307692307, 0.9230769230769231, 0.9230769230769231, 0.8961538461538462, 0.8996138996138996, 0.8803088803088803] 
+
+Classification Report: 
+Human: Precision: 0.9013 Recall: 0.8963 F1-Score: 0.8988 
+AI: Precision: 0.8994 Recall: 0.9042 F1-Score: 0.9018 
+
+Overall Accuracy: 0.9003 
+
+
+
+ROC AUC: 0.9664
