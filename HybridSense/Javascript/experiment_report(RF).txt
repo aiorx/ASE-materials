@@ -1,0 +1,19 @@
+AI Code Detection Experiment Report - JavaScript(RF) 
+
+Cross-Validation Results: 
+Mean Accuracy: 0.8940 
+Standard Deviation: 0.0253 
+Fold Scores: [0.8807947019867549, 0.9205298013245033, 0.9205298013245033, 0.8741721854304636, 0.8675496688741722, 0.8675496688741722, 0.8807947019867549, 0.8940397350993378, 0.9470198675496688, 0.8874172185430463] 
+
+Classification Report: 
+Human: 
+Precision: 0.9133 
+Recall: 0.8725 
+F1-Score: 0.8925 
+AI: Precision: 0.8761 
+Recall: 0.9159 
+F1-Score: 0.8956 
+Overall Accuracy: 0.8940 
+
+
+ROC AUC: 0.9584

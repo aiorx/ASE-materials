@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - JavaScript (Pure LightGBM 10-Fold Cross-Validation Version) 
+
+Cross-Validation Results (10-Fold): 
+Mean Accuracy: 0.9113 
+Standard Deviation: 0.0220 
+Fold Scores: [0.9205298013245033, 0.9072847682119205, 0.9536423841059603, 0.9205298013245033, 0.9072847682119205, 0.8675496688741722, 0.9337748344370861, 0.9006622516556292, 0.8940397350993378, 0.9072847682119205] 
+
+Classification Report: 
+Human: 
+Precision: 0.9174 
+Recall: 0.9054 
+F1-Score: 0.9114 
+AI: 
+Precision: 0.9051 
+Recall: 0.9172 
+F1-Score: 0.9111 
+Overall Accuracy: 0.9113 
+
+
+ROC AUC: 0.9735 
