@@ -1,0 +1,16 @@
+AI Code Detection Experiment Report - Java (Ensemble Version) 
+
+
+Cross-Validation Results:
+Mean Accuracy: 0.9074 Standard Deviation: 0.0257 Fold Scores: [0.9175257731958762, 0.90625, 0.8854166666666666, 0.90625, 0.9375, 0.9166666666666666, 0.9166666666666666, 0.9479166666666666, 0.8854166666666666, 0.8541666666666666] 
+
+Classification Report:
+Human:
+Precision: 0.9137 Recall: 0.9004 F1-Score: 0.9070 
+AI:
+Precision: 0.9012 Recall: 0.9144 F1-Score: 0.9078 
+
+Overall Accuracy: 0.9074 
+
+
+ROC AUC: 0.9696
