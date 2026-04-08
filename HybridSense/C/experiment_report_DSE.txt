@@ -1,4 +1,4 @@
-AI Code Detection Experiment Report - C (Ensemble Version)
+AI Code Detection Experiment Report - C++ (Ensemble Version)
 
 
 Cross-Validation Results:
