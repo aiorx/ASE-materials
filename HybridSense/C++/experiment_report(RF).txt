@@ -1,0 +1,19 @@
+AI Code Detection Experiment Report - (Pure Random Forest Version) 
+
+Cross-Validation Results: 
+Mean Accuracy: 0.8797 
+Standard Deviation: 0.0339 
+Fold Scores: [0.8648648648648649, 0.8648648648648649, 0.9324324324324325, 0.8243243243243243, 0.9324324324324325, 0.8513513513513513, 0.8918918918918919, 0.8783783783783784, 0.8513513513513513, 0.9054054054054054] 
+
+Classification Report: 
+Human: 
+Precision: 0.8835 
+Recall: 0.8663 
+F1-Score: 0.8748 
+AI: 
+Precision: 0.8763 
+Recall: 0.8924 
+F1-Score: 0.8843 Overall Accuracy: 0.8797 
+
+
+ROC AUC: 0.9556

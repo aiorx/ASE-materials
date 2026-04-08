@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - C++ (HistGB) 
+
+Cross-Validation Results: 
+Mean Accuracy: 0.8973 
+Standard Deviation: 0.0297 
+Fold Scores: [0.8783783783783784, 0.8648648648648649, 0.918918918918919, 0.8918918918918919, 0.918918918918919, 0.9459459459459459, 0.8918918918918919, 0.9054054054054054, 0.8378378378378378, 0.918918918918919] 
+
+Classification Report: 
+Human: 
+Precision: 0.8794 
+Recall: 0.9136 
+F1-Score: 0.8962 
+AI: 
+Precision: 0.9155 
+Recall: 0.8819 
+F1-Score: 0.8984 
+Overall Accuracy: 0.8973 
+
+
+ROC AUC: 0.9640
