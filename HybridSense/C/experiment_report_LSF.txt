@@ -22,11 +22,5 @@ F1-Score: 0.8235
 
 Overall Accuracy: 0.8207 
 
-Confusion Matrix: 
-Actual \ Predicted   Human   AI 
-Human                       222       54 
-
-AI                            45        231 
-
 
 ROC AUC: 0.8975
