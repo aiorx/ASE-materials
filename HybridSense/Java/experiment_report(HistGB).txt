@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - Java (Pure HistGB Version)
+
+Cross-Validation Results: 
+Mean Accuracy: 0.9095 
+Standard Deviation: 0.0229 
+Fold Scores: [0.9175257731958762, 0.9166666666666666, 0.8958333333333334, 0.90625, 0.9375, 0.9166666666666666, 0.9166666666666666, 0.9375, 0.8958333333333334, 0.8541666666666666] 
+
+Classification Report: 
+Human: 
+Precision: 0.9123 
+Recall: 0.9066 
+F1-Score: 0.9095 
+AI: 
+Precision: 0.9066 
+Recall: 0.9123 
+F1-Score: 0.9095 
+Overall Accuracy: 0.9095 
+
+
+ROC AUC: 0.9713 

@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - Java (Pure LightGBM Version)  
+
+Cross-Validation Results: 
+Mean Accuracy: 0.9053 
+Standard Deviation: 0.0226 
+Fold Scores: [0.9278350515463918, 0.90625, 0.8958333333333334, 0.90625, 0.9166666666666666, 0.90625, 0.90625, 0.9479166666666666, 0.875, 0.8645833333333334] 
+
+Classification Report: 
+Human: 
+Precision: 0.9099 
+Recall: 0.9004 
+F1-Score: 0.9051 
+AI: 
+Precision: 0.9008 
+Recall: 0.9102 
+F1-Score: 0.9055 
+Overall Accuracy: 0.9053 
+
+
+ROC AUC: 0.9704
