@@ -1,19 +1,22 @@
-AI Code Detection Experiment Report - C (Ensemble Version)
+AI Code Detection Experiment Report - Java (Ensemble Version) 
+ 
 
 Cross-Validation Results:
-Mean Accuracy: 0.8279
-Standard Deviation: 0.0392
-Fold Scores: [0.8035714285714286, 0.8571428571428571, 0.8363636363636363, 0.8727272727272727, 0.7818181818181819, 0.8545454545454545, 0.7818181818181819, 0.7636363636363637, 0.8727272727272727, 0.8545454545454545]
+Mean Accuracy: 0.8606 
+Standard Deviation: 0.0272 
+Fold Scores: [0.8556701030927835, 0.8854166666666666, 0.8020833333333334, 0.8645833333333334, 0.8645833333333334, 0.8958333333333334, 0.8541666666666666, 0.8541666666666666, 0.8958333333333334, 0.8333333333333334] 
 
 Classification Report:
 Human:
-Precision: 0.8089
-Recall: 0.8587
-F1-Score: 0.8330
+Precision: 0.8850 
+Recall: 0.8299 
+F1-Score: 0.8565 
 AI:
-Precision: 0.8494
-Recall: 0.7971
-F1-Score: 0.8224
-Overall Accuracy: 0.8279
+Precision: 0.8389 
+Recall: 0.8914 
+F1-Score: 0.8644 
 
-ROC AUC: 0.9109
+Overall Accuracy: 0.8606 
+
+
+ROC AUC: 0.9398
