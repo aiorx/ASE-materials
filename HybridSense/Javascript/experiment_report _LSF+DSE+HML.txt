@@ -1,0 +1,16 @@
+AI Code Detection Experiment Report - JavaScript/TypeScript (Ensemble Version) 
+
+
+Cross-Validation Results:
+Mean Accuracy: 0.9126 
+Standard Deviation: 0.0205 
+Fold Scores: [0.9271523178807947, 0.9139072847682119, 0.9470198675496688, 0.9271523178807947, 0.9072847682119205, 0.8675496688741722, 0.9271523178807947, 0.9072847682119205, 0.9006622516556292, 0.9006622516556292] 
+
+Classification Report:
+Human:
+Precision: 0.9177 Recall: 0.9080 F1-Score: 0.9128 
+AI:
+Precision: 0.9075 Recall: 0.9172 F1-Score: 0.9124 Overall Accuracy: 0.9126 
+
+
+ROC AUC: 0.9744
