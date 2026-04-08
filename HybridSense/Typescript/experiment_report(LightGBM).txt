@@ -1,0 +1,20 @@
+AI Code Detection Experiment Report - TypeScript (Pure LightGBM 10-Fold Cross-Validation Version)
+
+Cross-Validation Results (10-Fold):
+Mean Accuracy: 0.9418
+Standard Deviation: 0.0132
+Fold Scores: [0.9497907949790795, 0.9497907949790795, 0.9372384937238494, 0.9539748953974896, 0.9205020920502092, 0.9330543933054394, 0.9539748953974896, 0.9623430962343096, 0.9288702928870293, 0.9285714285714286]
+
+Classification Report:
+Human:
+Precision: 0.9437
+Recall: 0.9397
+F1-Score: 0.9417
+AI:
+Precision: 0.9400
+Recall: 0.9439
+F1-Score: 0.9420
+Overall Accuracy: 0.9418
+
+
+ROC AUC: 0.9868
